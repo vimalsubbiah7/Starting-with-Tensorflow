@@ -4,8 +4,8 @@ Beginner Tensorflow Projects
 
 ## Tensorflow projects 
 ---
-1. House price prediction with Keras
-2. MNIST Dataset (Starting with Neural networks)
+1. MNIST Dataset (Starting with Neural networks)
+2. Houses Price Prediction (Keras)
 3. Image Data Augmentation (Keras)
 4.
 5.
