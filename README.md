@@ -8,6 +8,6 @@ Beginner Tensorflow Projects
 2. Houses Price Prediction (Keras)
 3. Image Data Augmentation (Keras)
 4. Basic Image Data Classification (MNIST Dataset)
-5.
+5. Classfying Outer Space radio signals using CNN's (SETI ML Challenge Dataset)
 6.
 7.
