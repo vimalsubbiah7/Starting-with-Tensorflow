@@ -9,5 +9,5 @@ Beginner Tensorflow Projects
 3. Image Data Augmentation (Keras)
 4. Basic Image Data Classification (MNIST Dataset)
 5. Classfying Outer Space radio signals using CNN's (SETI ML Challenge Dataset)
-6.
+6. Annotated Corpus for Named Entity Recognition (kaggle : https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus) [keras]
 7.
