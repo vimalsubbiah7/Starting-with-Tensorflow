@@ -12,3 +12,7 @@ Beginner Tensorflow Projects
 6. Annotated Corpus for Named Entity Recognition (kaggle : https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus) [keras]
 7. Anomaly Detection in Time Series of S&P 500 index data [Source](https://www.kaggle.com/pdquant/sp500-daily-19862018)
 8. Traffic Signs Image Classification using CNNs
+9. TransferLearning (food vision)
+
+
+# TO BE UPDATED!!!
